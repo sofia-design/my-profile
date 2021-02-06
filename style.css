@@ -1,0 +1,101 @@
+body {
+	background-color: #1687A7;
+	color: green;
+	font-family: font-family: 'Lora', serif;
+	 }
+
+h1 {
+	color: #1687A7;
+    font-family:font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 45px;
+}
+a{
+	font-family:font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 16px;
+}
+a:hover {
+	color: #1687A7; 
+}
+ 
+#structuring-profile{
+ width: 700px;
+ margin: 40px auto;
+ }
+
+@media	(max-width: 760px){
+
+  #structuring-profile{
+  width:600px;
+  }
+ }
+
+
+@media	(max-width: 500px){
+
+  #structuring-profile{
+  width:400px;
+  }
+ }
+
+
+
+
+#design-zero{
+ background: lightblue;
+ padding: 60px;
+ margin: 50px;
+ box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ border-radius: 6px;
+}
+#design-first{
+ background: lightblue;
+ padding: 60px;
+ margin: 50px;
+ box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ border-radius: 4px;
+}
+#design-two{
+ background: lightblue;
+ padding: 60px;
+ margin: 50px;
+ box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ border-radius: 4px;	
+}
+#design-three{
+ background: lightblue;
+ padding: 60px;
+ margin: 50px;
+ box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ border-radius: 4px;
+}
+#design-four{
+ background: lightblue;
+ padding: 60px;
+ margin: 50px;
+ box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ border-radius: 4px;
+}
+
+.img-circle{
+ border-radius: 250px;
+ max-width:50%;
+ height:auto;
+}
+
+.btn-green{
+	background-color: #1687A7;
+	color:white;
+	padding: 15px 20px;
+	border-radius: 4px
+}
+
+
+
+
+
+
+
+
